@@ -1,6 +1,6 @@
-<h1>:open_file_folder: Challenge #2 - Basics ReactJS - Rocketseat bootcamp GoStack</h1>
+<h1>:open_file_folder: Challenge #3 - Basics ReactJS - Rocketseat bootcamp GoStack</h1>
 
-The purpose of this project is to complete the #2 Challenge of the Rocketseat GoStack 12 Bootcamp!<br>
+The purpose of this project is to complete the #3 Challenge of the Rocketseat GoStack 12 Bootcamp!<br>
 https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs
 
 <h2>:computer: What is supposed to do?</h2>
