@@ -25,7 +25,7 @@ function App() {
 		await api.delete(`repositories/${id}`);
 
 		const otherRepositories = repositories.filter(
-			repository => repository.id != id
+			repository => repository.id !== id
 		);
 
 		setRepositories(otherRepositories);
